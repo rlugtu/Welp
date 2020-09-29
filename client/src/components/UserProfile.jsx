@@ -63,6 +63,7 @@ const UserProfile = (props) => {
 
   return (
     <div>
+      {console.log(process.env)}
       <Navbar
         setResults={props.setResults}
         isLoggedIn={props.isLoggedIn}
