@@ -2,7 +2,7 @@
 
 ## Heroku Deployment
 
-[Welp](https://ohwelp.herokuapp.com/)
+[Welp](https://welpme.herokuapp.com/)
 
 ## Business Directory App
 
