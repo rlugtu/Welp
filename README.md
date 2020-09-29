@@ -31,13 +31,12 @@ Welp is a business directory app that allows users to find, bookmark, and review
 - username: test
 - password: test
 
-## Specs
+## Technologies
 
-- Technologies
-  - ReactJS
-  - Ruby on Rails
-  - Postgres-SQL
-  - Heroku-postgres
+- ReactJS
+- Ruby on Rails
+- Postgres-SQL
+- Heroku-postgres
 
 ## Modules/Libraries
 
