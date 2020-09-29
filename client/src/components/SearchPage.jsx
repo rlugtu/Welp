@@ -41,7 +41,7 @@ const SearchPage = (props) => {
                 </div>
                 <div className="serviceSearchInfo">
                   <li>
-                    <h1>{item.name}</h1>
+                    <h2>{item.name}</h2>
                   </li>
                   <li>
                     {item.categories.map((category, i) => (
