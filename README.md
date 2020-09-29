@@ -60,3 +60,4 @@ Welp is a business directory app that allows users to find, bookmark, and review
 - Allow users to create custom folders to organize bookmarks
 - Implement user profile picture uploads
 - Allow users to view other profiles
+- Allow users to like other reviews
