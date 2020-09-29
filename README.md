@@ -25,6 +25,12 @@ Welp is a business directory app that allows users to find, bookmark, and review
 - User can edit their bookmark page
 - User can write a review on a business
 
+## Test User
+
+- Either create an account or usethe existing test user account
+- username: test
+- password: test
+
 ## Specs
 
 - Technologies
