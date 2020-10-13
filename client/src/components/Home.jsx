@@ -51,9 +51,9 @@ const Home = (props) => {
       <div className="homeLogo">
         <Link to="/">
           <img
+            className="homeLogoImg"
             src={"https://i.imgur.com/AyuQkTz.png"}
             alt={"company logo"}
-            height="200px"
           />
         </Link>
       </div>
